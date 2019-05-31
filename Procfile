@@ -1,0 +1,1 @@
+web: gunicorn herokuu.wsgi --log-file -
